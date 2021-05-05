@@ -2,6 +2,7 @@
   "name": "wander-seattle",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "dist/index.html",
   "homepage": "https://chloet127.github.io/wander-seattle/",
   "scripts": {
@@ -19,5 +20,9 @@
     "parcel": "^2.0.0-beta.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-beta.2",
+    "sharp": "^0.28.1"
   }
 }

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Steven Luong",
+        "role": "Web Developer, Researcher",
+        "email": "stluong@uw.edu",
+        "github": "github.com/stluongXD"
+    },
+    {
+        "name": "Damita Gomez",
+        "role": "Web Developer, Researcher",
+        "email": "dgomez23@uw.edu",
+        "github": "github.com/damitagomez23"
+    },
+    {
+        "name": "Phung Phu",
+        "role": "Web Developer, Researcher",
+        "email": "phungphu@uw.edu",
+        "github": "github.com/phung-phu"
+    },
+    {
+        "name": "Chloe Tsien",
+        "role": "Web Developer, Researcher",
+        "email": "ctsien@uw.edu",
+        "github": "github.com/chloet127"
+    }
+]
