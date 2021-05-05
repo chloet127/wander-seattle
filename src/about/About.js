@@ -14,19 +14,29 @@ export default class About extends Component {
         <div id="aboutBackgroundDiv">
           <div id="aboutBottomLeft">
             <h1>
-              About Us
+              Wander: A Guide to Exploring Seattle
             </h1>
 
           </div>
         </div>
         <section id="aboutText">
           <p>
-            Wander: A Guide to Exploring Seattle is a capstone project developed to use the power of food
-            to tell the story around Seattle’s International District. As land prices rise and gentrification
-            becomes more prominant in areas around Seattle, locals are more likely to be priced out of the communities
-            that have supported them for many years. We hope that users of this guide will be inspired to make a
-            conscious effort to learn more about the  history of the International District in an effort to preserve and protect our community.
-            </p>
+            Wander: A Guide to Exploring Seattle is a capstone project from the University of Washington developed to 
+            use the power of food to tell the story around Seattle’s Chinatown-International District. Food holds entire 
+            legacies that transcend languages and oceans, bringing comfort from one family table to another. Seattle and 
+            the CID community is ever-changing, but generations of families have established themselves in the CID and 
+            continue to share their story with every delicious bite. Others are at the beginning of their journey, offering 
+            something new and building a relationship with the city through food. Our goal for this project is to promote 
+            Seattle’s Chinatown-International District and amplify the voices of local businesses, giving them a chance to 
+            tell their stories about their food.
+          </p>
+          <p>
+            As land prices rise and gentrification becomes more prominent in areas around Seattle, locals are more likely 
+            to be priced out of the communities that have supported them for many years. We hope that users of this guide 
+            will be inspired to make a conscious effort to learn more about the history of the Chinatown-International 
+            District in an effort to preserve and protect our community. Explore now to learn more about your favorite 
+            businesses in the area or discover a new restaurant to fall in love with.
+          </p>
         </section>
         <section id="creators">
           <h2>Meet the Creators:</h2>
