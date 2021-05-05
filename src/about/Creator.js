@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./About.css"
 /* import MailOutlineIcon from 'url:@material-ui/icons/MailOutline';
 import GitHubIcon from 'url:@material-ui/icons/GitHub';
 import LinkedInIcon from 'url:@material-ui/icons/LinkedIn';

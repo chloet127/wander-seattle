@@ -29,8 +29,8 @@ export default class About extends Component {
             something new and building a relationship with the city through food. Our goal for this project is to promote 
             Seattle’s Chinatown-International District and amplify the voices of local businesses, giving them a chance to 
             tell their stories about their food.
-          </p>
-          <p>
+            <br />
+            <br />
             As land prices rise and gentrification becomes more prominent in areas around Seattle, locals are more likely 
             to be priced out of the communities that have supported them for many years. We hope that users of this guide 
             will be inspired to make a conscious effort to learn more about the history of the Chinatown-International 

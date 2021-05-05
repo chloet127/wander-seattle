@@ -1,6 +1,6 @@
 #aboutBackgroundDiv {
     position: relative;
-    background-image: url('./img/international-district.png');
+    background-image: url('international-district.1ac4e19b.png');
     height: 490px;
     width: 100%;
     background-position: center;
@@ -32,7 +32,7 @@
     padding-bottom: 2.5em;
     font-size: larger;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-} 
+}
 
 #creators {
     margin-top: 3.5rem;
@@ -102,3 +102,5 @@ a:link, a:visited {
 }
 }
 
+
+/*# sourceMappingURL=index.96d79c96.css.map */
