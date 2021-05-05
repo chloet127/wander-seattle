@@ -1,17 +1,21 @@
 {
-  "name": "4-6-wk2-a",
+  "name": "wander-seattle",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.html",
+  "homepage": "https://chloet127.github.io/wander-seattle/",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url https://info474-sp21.github.io/react-parcel-test-upload && rm -rf docs && mv dist docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build index.html --public-url https://chloet127.github.io/wander-seattle/ && rm -rf docs && mv dist docs",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "parcel": "^2.0.0-beta.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
