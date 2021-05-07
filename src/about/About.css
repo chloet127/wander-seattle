@@ -22,35 +22,51 @@
     font-size: xxx-large;
 }
 
-#aboutText {
+.aboutText {
     background-color: #D8DCDE;
-    padding: 4em;
+
 }
 
-#aboutText > p {
-    padding: 1em;
-    padding-bottom: 2.5em;
+.aboutText > p {
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 2em;
     font-size: larger;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-} 
+}
+
+.centerText {
+    text-align: center;
+    padding: 2%;
+}
+
+.dashed {
+    border-top: 3px dashed #bbb;
+}
 
 #creators {
     margin-top: 3.5rem;
 }
 
-#creators > h2 {
-    font-weight: 700;
-    padding-bottom: 2rem;
-    font-family: "Sora";
-    text-align: center;
-    font-size: 40px;
-    color: #333A3E;
+.featureText {
+    font-size: larger;
 }
 
 .aboutEmail, .aboutGithub, .linkedin {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+iframe {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.extraBottomPadding {
+    padding-bottom: 2%;
 }
 
 /* .mail-icon, .github-icon, .linkedin-icon {
@@ -64,8 +80,8 @@
     margin-bottom: 2rem;
 }
 
-#creators {
-    margin-bottom: 5rem;
+.tanBackground {
+    background-color: #f5efe0;
 }
 
 .aboutName {
