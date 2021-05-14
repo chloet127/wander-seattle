@@ -4,7 +4,7 @@ body {
 
 #aboutBackgroundDiv {
     position: relative;
-    background-image: url('./img/international-district.png');
+    background-image: url('international-district.1ac4e19b.png');
     height: 490px;
     width: 100%;
     background-position: center;
@@ -84,7 +84,6 @@ li {
     justify-content: center;
 }
 
-
 iframe {
     display: block;
     width: 1120px;
@@ -147,3 +146,5 @@ a:link, a:visited {
 }
 }
 
+
+/*# sourceMappingURL=index.96d79c96.css.map */
