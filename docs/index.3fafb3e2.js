@@ -1054,7 +1054,7 @@ try {
   var _reactDomDefault = _parcelHelpers.interopDefault(_reactDom);
   var _App = require("./App");
   var _AppDefault = _parcelHelpers.interopDefault(_App);
-  var _jsxFileName = "/Users/steven/Desktop/wander-seattle/src/index.js";
+  var _jsxFileName = "F:\\Users\\Chloe\\Desktop\\wander-seattle\\src\\index.js";
   _reactDomDefault.default.render(/*#__PURE__*/_reactDefault.default.createElement(_AppDefault.default, {
     __self: undefined,
     __source: {
@@ -26274,7 +26274,7 @@ try {
   var _reactDefault = _parcelHelpers.interopDefault(_react);
   var _aboutAbout = require("./about/About");
   var _aboutAboutDefault = _parcelHelpers.interopDefault(_aboutAbout);
-  var _jsxFileName = "/Users/steven/Desktop/wander-seattle/src/App.js";
+  var _jsxFileName = "F:\\Users\\Chloe\\Desktop\\wander-seattle\\src\\App.js";
   const App = () => {
     return (
       /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26322,9 +26322,6 @@ try {
   var _urlImgPhungPngDefault = _parcelHelpers.interopDefault(_urlImgPhungPng);
   var _urlImgChloePng = require('url:./img/Chloe.png');
   var _urlImgChloePngDefault = _parcelHelpers.interopDefault(_urlImgChloePng);
-  require("url:./img/restaurant.png");
-  require("url:./img/pho.png");
-  require("url:./img/boba.png");
   var _urlImgStoryIntroPng = require("url:./img/story-intro.png");
   var _urlImgStoryIntroPngDefault = _parcelHelpers.interopDefault(_urlImgStoryIntroPng);
   var _urlImgStoryHistoryPng = require("url:./img/story-history.png");
@@ -26338,7 +26335,7 @@ try {
   var _creatorsInfoJsonDefault = _parcelHelpers.interopDefault(_creatorsInfoJson);
   var _Creator = require('./Creator');
   var _CreatorDefault = _parcelHelpers.interopDefault(_Creator);
-  var _jsxFileName = "/Users/steven/Desktop/wander-seattle/src/about/About.js";
+  var _jsxFileName = "F:\\Users\\Chloe\\Desktop\\wander-seattle\\src\\about\\About.js";
   class About extends _react.Component {
     render() {
       return (
@@ -26346,7 +26343,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 20,
+            lineNumber: 17,
             columnNumber: 7
           }
         }, this.createHeaderImage(), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26354,7 +26351,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 22,
+            lineNumber: 19,
             columnNumber: 9
           }
         }, this.createAboutText(), this.createKeyFeatures(), this.createPresentation(), this.createCreators()), this.createProjectStatus())
@@ -26367,7 +26364,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 35,
+            lineNumber: 32,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26375,14 +26372,14 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 36,
+            lineNumber: 33,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h1", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 37,
+            lineNumber: 34,
             columnNumber: 13
           }
         }, "Wander: A Guide to Exploring Seattle")))
@@ -26395,7 +26392,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 47,
+            lineNumber: 44,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
@@ -26403,7 +26400,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 48,
+            lineNumber: 45,
             columnNumber: 11
           }
         }, "About Our Project"), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26411,7 +26408,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 49,
+            lineNumber: 46,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26419,7 +26416,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 50,
+            lineNumber: 47,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26427,7 +26424,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 51,
+            lineNumber: 48,
             columnNumber: 15
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
@@ -26435,28 +26432,28 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 52,
+            lineNumber: 49,
             columnNumber: 17
           }
         }, "Challenges"), /*#__PURE__*/_reactDefault.default.createElement("ul", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 53,
+            lineNumber: 50,
             columnNumber: 19
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 54,
+            lineNumber: 51,
             columnNumber: 21
           }
         }, "Tourism can bring economic benefits to Chinatowns but can also amplify gentrification."), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 55,
+            lineNumber: 52,
             columnNumber: 21
           }
         }, "Gentrification can potentially alter the culture of the area which leads to a loss of familiarity to the locals."))), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26464,7 +26461,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 58,
+            lineNumber: 55,
             columnNumber: 15
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
@@ -26472,35 +26469,35 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 59,
+            lineNumber: 56,
             columnNumber: 17
           }
         }, "Outcome"), /*#__PURE__*/_reactDefault.default.createElement("ul", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 60,
+            lineNumber: 57,
             columnNumber: 17
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 61,
+            lineNumber: 58,
             columnNumber: 19
           }
         }, "Wander is a website that is developed to amplify the stories of food businesses that reside in the Chinatown-International District."), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 64,
+            lineNumber: 61,
             columnNumber: 19
           }
         }, "Business owners have a platform to tell stories behind their favorite dishes"), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 67,
+            lineNumber: 64,
             columnNumber: 19
           }
         }, "Users can learn about the communities that make up the Chinatown-International District."))), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26508,7 +26505,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 72,
+            lineNumber: 69,
             columnNumber: 15
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
@@ -26516,7 +26513,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 73,
+            lineNumber: 70,
             columnNumber: 15
           }
         }, "Impact"), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -26524,35 +26521,35 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 74,
+            lineNumber: 71,
             columnNumber: 17
           }
         }, "We hope our project inspires others to..."), /*#__PURE__*/_reactDefault.default.createElement("ul", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 77,
+            lineNumber: 74,
             columnNumber: 17
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 78,
+            lineNumber: 75,
             columnNumber: 19
           }
         }, "make a conscious effort to respectfully engage with the business"), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 81,
+            lineNumber: 78,
             columnNumber: 19
           }
         }, "learn more about the history of the Chinatown-International District"), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 84,
+            lineNumber: 81,
             columnNumber: 19
           }
         }, "preserve and protect this community"))))))
@@ -26564,7 +26561,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 97,
+            lineNumber: 94,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
@@ -26572,7 +26569,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 98,
+            lineNumber: 95,
             columnNumber: 9
           }
         }, "Key Features"), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26580,7 +26577,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 99,
+            lineNumber: 96,
             columnNumber: 9
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26588,7 +26585,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 100,
+            lineNumber: 97,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26596,7 +26593,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 101,
+            lineNumber: 98,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("img", {
@@ -26605,7 +26602,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 102,
+            lineNumber: 99,
             columnNumber: 15
           }
         })), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26613,22 +26610,22 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 104,
+            lineNumber: 101,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 105,
+            lineNumber: 102,
             columnNumber: 15
           }
-        }, "Engage with the dishes recommended by the owners themselves"))), /*#__PURE__*/_reactDefault.default.createElement("div", {
+        }, "Engage with dishes recommended by the owners themselves"))), /*#__PURE__*/_reactDefault.default.createElement("div", {
           className: "row",
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 108,
+            lineNumber: 105,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26636,7 +26633,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 109,
+            lineNumber: 106,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("img", {
@@ -26645,7 +26642,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 110,
+            lineNumber: 107,
             columnNumber: 15
           }
         })), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26653,14 +26650,14 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 112,
+            lineNumber: 109,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 113,
+            lineNumber: 110,
             columnNumber: 15
           }
         }, "Learn about the origins of your favorite restaurants"))), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26668,7 +26665,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 116,
+            lineNumber: 113,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26676,7 +26673,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 117,
+            lineNumber: 114,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("img", {
@@ -26685,7 +26682,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 118,
+            lineNumber: 115,
             columnNumber: 15
           }
         })), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26693,22 +26690,22 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 120,
+            lineNumber: 117,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 121,
+            lineNumber: 118,
             columnNumber: 15
           }
-        }, "Connect with our interviews to see how the restaurant grew into what it is today"))), /*#__PURE__*/_reactDefault.default.createElement("div", {
+        }, "Connect with our interviews to see how each restaurant has grown into what it is today"))), /*#__PURE__*/_reactDefault.default.createElement("div", {
           className: "row",
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 124,
+            lineNumber: 121,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26716,7 +26713,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 125,
+            lineNumber: 122,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("img", {
@@ -26725,7 +26722,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 126,
+            lineNumber: 123,
             columnNumber: 15
           }
         })), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26733,22 +26730,22 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 128,
+            lineNumber: 125,
             columnNumber: 13
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h3", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 129,
+            lineNumber: 126,
             columnNumber: 15
           }
-        }, "Stay up to date with how the businesses adapted to the pandmemic and their future plans")))), /*#__PURE__*/_reactDefault.default.createElement("hr", {
+        }, "Stay up to date with how the businesses have adapted to the pandmemic and their future plans")))), /*#__PURE__*/_reactDefault.default.createElement("hr", {
           className: "dashed",
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 133,
+            lineNumber: 130,
             columnNumber: 9
           }
         }))
@@ -26760,7 +26757,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 140,
+            lineNumber: 137,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
@@ -26768,7 +26765,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 141,
+            lineNumber: 138,
             columnNumber: 11
           }
         }, "Presentation Video"), /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26783,7 +26780,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 142,
+            lineNumber: 139,
             columnNumber: 11
           }
         }), /*#__PURE__*/_reactDefault.default.createElement("hr", {
@@ -26791,7 +26788,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 145,
+            lineNumber: 142,
             columnNumber: 11
           }
         }))
@@ -26803,7 +26800,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 152,
+            lineNumber: 149,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
@@ -26811,7 +26808,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 153,
+            lineNumber: 150,
             columnNumber: 11
           }
         }, "Meet the Creators"), /*#__PURE__*/_reactDefault.default.createElement("div", {
@@ -26819,7 +26816,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 154,
+            lineNumber: 151,
             columnNumber: 11
           }
         }, this.loadCreators()))
@@ -26832,7 +26829,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 163,
+            lineNumber: 160,
             columnNumber: 7
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
@@ -26840,7 +26837,7 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 164,
+            lineNumber: 161,
             columnNumber: 11
           }
         }, "Project Status"), /*#__PURE__*/_reactDefault.default.createElement("ul", {
@@ -26848,21 +26845,21 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 165,
+            lineNumber: 162,
             columnNumber: 11
           }
         }, /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 166,
+            lineNumber: 163,
             columnNumber: 13
           }
         }, "This project is developed for the University of Washington Information School Capstone for Winter/Spring of 2021"), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 169,
+            lineNumber: 166,
             columnNumber: 13
           }
         }, "This project is currently being open sourced and can be found ", /*#__PURE__*/_reactDefault.default.createElement("a", {
@@ -26871,30 +26868,30 @@ try {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 170,
+            lineNumber: 167,
             columnNumber: 77
           }
         }, "here")), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 172,
+            lineNumber: 169,
             columnNumber: 13
           }
-        }, "Documentation as to how to use our code are ", /*#__PURE__*/_reactDefault.default.createElement("a", {
+        }, "Documentation as to how to use our code is ", /*#__PURE__*/_reactDefault.default.createElement("a", {
           href: "https://docs.google.com/document/d/1aCO4Ft1RI6Dss-IHPh3ZnHBF8wAblZy-ODEvG5aslS0/edit?usp=sharing",
           target: "_blank",
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 173,
-            columnNumber: 59
+            lineNumber: 170,
+            columnNumber: 58
           }
         }, "here")), /*#__PURE__*/_reactDefault.default.createElement("li", {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 175,
+            lineNumber: 172,
             columnNumber: 13
           }
         }, "If you are in need of any additional information related to this project, feel free to email anyone from our team and we will get back to you")))
@@ -26914,7 +26911,7 @@ try {
             __self: this,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 187,
+              lineNumber: 184,
               columnNumber: 14
             }
           })
@@ -26930,7 +26927,7 @@ try {
   window.$RefreshSig$ = prevRefreshSig;
 }
 
-},{"react":"3b2NM","url:./img/Steven.png":"3bmvR","url:./img/Damita.png":"6YM0X","url:./img/Phung.png":"5fXKZ","url:./img/Chloe.png":"7CP79","url:./img/restaurant.png":"3SEYi","url:./img/pho.png":"7JvnS","url:./img/boba.png":"3Liae","./About.css":"TgYsM","./creators-info.json":"6WwsR","./Creator":"35T4o","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f","url:./img/story-intro.png":"2uDkW","url:./img/story-history.png":"Gz9h6","url:./img/story-growth.png":"1BghV","url:./img/story-current.png":"1xGM5"}],"3bmvR":[function(require,module,exports) {
+},{"react":"3b2NM","url:./img/Steven.png":"3bmvR","url:./img/Damita.png":"6YM0X","url:./img/Phung.png":"5fXKZ","url:./img/Chloe.png":"7CP79","url:./img/story-intro.png":"2uDkW","url:./img/story-history.png":"Gz9h6","url:./img/story-growth.png":"1BghV","url:./img/story-current.png":"1xGM5","./About.css":"TgYsM","./creators-info.json":"6WwsR","./Creator":"35T4o","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"3bmvR":[function(require,module,exports) {
 module.exports = require('./bundle-url').getBundleURL() + "Steven.9a3d74e2.png"
 },{"./bundle-url":"3seVR"}],"3seVR":[function(require,module,exports) {
 "use strict";
@@ -26984,12 +26981,14 @@ module.exports = require('./bundle-url').getBundleURL() + "Damita.23e2af04.png"
 module.exports = require('./bundle-url').getBundleURL() + "Phung.ea472a74.png"
 },{"./bundle-url":"3seVR"}],"7CP79":[function(require,module,exports) {
 module.exports = require('./bundle-url').getBundleURL() + "Chloe.81c20813.png"
-},{"./bundle-url":"3seVR"}],"3SEYi":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "restaurant.299045e0.png"
-},{"./bundle-url":"3seVR"}],"7JvnS":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "pho.fb86c445.png"
-},{"./bundle-url":"3seVR"}],"3Liae":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "boba.de7da099.png"
+},{"./bundle-url":"3seVR"}],"2uDkW":[function(require,module,exports) {
+module.exports = require('./bundle-url').getBundleURL() + "story-intro.16786668.png"
+},{"./bundle-url":"3seVR"}],"Gz9h6":[function(require,module,exports) {
+module.exports = require('./bundle-url').getBundleURL() + "story-history.5abeae97.png"
+},{"./bundle-url":"3seVR"}],"1BghV":[function(require,module,exports) {
+module.exports = require('./bundle-url').getBundleURL() + "story-growth.125e2f40.png"
+},{"./bundle-url":"3seVR"}],"1xGM5":[function(require,module,exports) {
+module.exports = require('./bundle-url').getBundleURL() + "story-current.9b099f05.png"
 },{"./bundle-url":"3seVR"}],"TgYsM":[function() {},{}],"6WwsR":[function(require,module,exports) {
 module.exports = JSON.parse("[{\"name\":\"Steven Luong\",\"role\":\"Web Developer, Researcher\",\"email\":\"stluong@uw.edu\",\"github\":\"github.com/stluongXD\"},{\"name\":\"Damita Gomez\",\"role\":\"Web Developer, Researcher\",\"email\":\"dgomez23@uw.edu\",\"github\":\"github.com/damitagomez23\"},{\"name\":\"Phung Phu\",\"role\":\"Web Developer, Researcher\",\"email\":\"phungphu@uw.edu\",\"github\":\"github.com/phung-phu\"},{\"name\":\"Chloe Tsien\",\"role\":\"Web Developer, Researcher, Designer\",\"email\":\"ctsien@uw.edu\",\"github\":\"github.com/chloet127\"}]");
 
@@ -27004,7 +27003,7 @@ try {
   var _react = require("react");
   var _reactDefault = _parcelHelpers.interopDefault(_react);
   require("./About.css");
-  var _jsxFileName = "/Users/steven/Desktop/wander-seattle/src/about/Creator.js";
+  var _jsxFileName = "F:\\Users\\Chloe\\Desktop\\wander-seattle\\src\\about\\Creator.js";
   class Creator extends _react.Component {
     render() {
       return (
@@ -27299,14 +27298,6 @@ function registerExportsForReactRefresh(module) {
   }
 }
 
-},{"react-refresh/runtime":"592mh"}],"2uDkW":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "story-intro.16786668.png"
-},{"./bundle-url":"3seVR"}],"Gz9h6":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "story-history.5abeae97.png"
-},{"./bundle-url":"3seVR"}],"1BghV":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "story-growth.125e2f40.png"
-},{"./bundle-url":"3seVR"}],"1xGM5":[function(require,module,exports) {
-module.exports = require('./bundle-url').getBundleURL() + "story-current.9b099f05.png"
-},{"./bundle-url":"3seVR"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequire89cd")
+},{"react-refresh/runtime":"592mh"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequire89cd")
 
 //# sourceMappingURL=index.3fafb3e2.js.map

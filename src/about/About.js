@@ -3,9 +3,6 @@ import Steven from 'url:./img/Steven.png';
 import Damita from 'url:./img/Damita.png';
 import Phung from 'url:./img/Phung.png';
 import Chloe from 'url:./img/Chloe.png';
-import Restaurant from "url:./img/restaurant.png"
-import Pho from "url:./img/pho.png"
-import Boba from "url:./img/boba.png"
 import StoryIntro from "url:./img/story-intro.png"
 import StoryHistory from "url:./img/story-history.png"
 import StoryGrowth from "url:./img/story-growth.png"
@@ -102,7 +99,7 @@ export default class About extends Component {
               <img className="imageShadow" src={StoryIntro}/>
             </div>
             <div className="col align-self-center">
-              <h3>Engage with the dishes recommended by the owners themselves</h3>
+              <h3>Engage with dishes recommended by the owners themselves</h3>
             </div>
           </div>
           <div className="row">
@@ -118,7 +115,7 @@ export default class About extends Component {
               <img className="imageShadow" src={StoryGrowth}/>
             </div>
             <div className="col align-self-center">
-              <h3>Connect with our interviews to see how the restaurant grew into what it is today</h3>
+              <h3>Connect with our interviews to see how each restaurant has grown into what it is today</h3>
             </div>
           </div>
           <div className="row">
@@ -126,7 +123,7 @@ export default class About extends Component {
               <img className="imageShadow" src={StoryCurrent}/>
             </div>
             <div className="col align-self-center">
-              <h3>Stay up to date with how the businesses adapted to the pandmemic and their future plans</h3>
+              <h3>Stay up to date with how the businesses have adapted to the pandmemic and their future plans</h3>
             </div>
           </div>
         </div>
@@ -170,7 +167,7 @@ export default class About extends Component {
               This project is currently being open sourced and can be found <a href="https://github.com/stluongXD/Wander-A-Guide-to-Seattle" target = "_blank">here</a>
             </li>
             <li>
-              Documentation as to how to use our code are <a href = "https://docs.google.com/document/d/1aCO4Ft1RI6Dss-IHPh3ZnHBF8wAblZy-ODEvG5aslS0/edit?usp=sharing" target = "_blank">here</a>
+              Documentation as to how to use our code is <a href = "https://docs.google.com/document/d/1aCO4Ft1RI6Dss-IHPh3ZnHBF8wAblZy-ODEvG5aslS0/edit?usp=sharing" target = "_blank">here</a>
             </li>
             <li>
               If you are in need of any additional information related to this project, feel free to email anyone from our team and we will get back to you
